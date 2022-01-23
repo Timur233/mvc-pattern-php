@@ -5,6 +5,6 @@
 	<title>Главная</title>
 </head>
 <body>
-	<?php include 'application/views/'.$content_view; ?>
+	<?php include 'app/views/'.$content_view; ?>
 </body>
 </html>
